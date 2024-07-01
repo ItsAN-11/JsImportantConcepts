@@ -31,9 +31,9 @@ b_TDZ.js   -- a variable exists but it cannot be accessed until it is not declar
              this prevents the variable from being used or accessed before a value is assigned to it.
 
 
-c_closures.js  -- this is a feature of js where an inner functions has access to the outer function's    
-               variable and scope even after outer function has returned or has been executed.
-               through this we can achieve data privacy, encapsulation, avoid global scope polluting
+c_closures.js  -- (this is about lexical scoping) this is a feature of js where an inner functions has  
+               access to the outer function's variable and scope even after outer function has returned or has been executed.
+               through this we can achieve data privacy, encapsulation, avoid global scope polluting.
 
 
 
