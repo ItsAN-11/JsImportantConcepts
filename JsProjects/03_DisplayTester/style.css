@@ -1,0 +1,47 @@
+#heading{
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.panel{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    border-radius: 50px;
+    
+    position: absolute;
+    bottom: 20px;
+    margin-left: 350px ;
+    gap: 5px;
+    
+}
+button{
+    color: white;
+    padding: 10px;
+    width: 100px;
+    border: none;
+    border-radius: 25px;
+    
+}
+
+#green{
+    background-color: green;
+}
+#red{
+    background-color: red;
+}
+#white{
+    background-color: white;
+    color: black;
+}
+#blue{
+    background-color: blue;
+    
+}
+
+#black{
+    
+    background-color: black;
+}
